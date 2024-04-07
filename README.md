@@ -6,4 +6,4 @@ NB: Work in progress
 Here is a [Colab Notebook](https://colab.research.google.com/drive/1DX4Yw6NkOcHwxUItwf4LrYGUAl53U97C?usp=sharing) to download and test the model.
 
 ### ARCHITECTURE
-![architecture](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/9491a1cd9894dfc9f1f99e667ff294ba37e45202/Architecture.png)
+![architecture](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/eb79f9f83ff02cdfe5a621e964b07bb28fd77218/Architecture.png)
