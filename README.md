@@ -22,8 +22,8 @@ This solution increased the accuracy on validation and test set of 2% (90% accur
 After the convolutional layers, the learning and classification is performed by two Dense layers with 512 and 256 weights, with a 40% Dropout.
 
 Here is a plot of the feature maps extracted from every convolutional layers pack:
-[feature_maps_plot_1](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/269ee3ed60e0f831b158fb36dc5acd8536b02425/pictures/feature_maps_1.png)
-[feature_maps_plot_2](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/269ee3ed60e0f831b158fb36dc5acd8536b02425/pictures/feature_maps_2.png)
+![feature_maps_plot_1](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/269ee3ed60e0f831b158fb36dc5acd8536b02425/pictures/feature_maps_1.png)
+![feature_maps_plot_2](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/269ee3ed60e0f831b158fb36dc5acd8536b02425/pictures/feature_maps_2.png)
 
 ### TESTED SOLUTIONS
 If you are curious about the visual differences between the feature maps of different kinds of layers, I made a few plots comparing them with the same 6 filters (initializer = GlorotUniform(seed=5)).
@@ -41,15 +41,15 @@ This is the list of convolutional layers tested:
 - Classic Conv2D, 3 layers, 3x3 kernel, 1 layer for MaxPooling 2x2, 1 layer for AveragePooling 2x2
 - Dilated Convolution, 3 layers, 3x3 kernel, dilation rates 1x1-2x2-3x3, 1 layer for MaxPooling 2x2, 1 layer for AveragePooling 2x2
 
-[test1](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test1.png)
-[test2](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test2.png)
-[test3](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test3.png)
-[test4](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test4.png)
-[test5](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test5.png)
-[test6](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test6.png)
-[test7](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test7.png)
-[test8](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test8.png)
-[test9](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test9.png)
-[test10](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test10.png)
-[test11](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test11.png)
-[test12](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test12.png)
+![test1](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test1.png)
+![test2](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test2.png)
+![test3](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test3.png)
+![test4](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test4.png)
+![test5](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test5.png)
+![test6](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test6.png)
+![test7](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test7.png)
+![test8](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test8.png)
+![test9](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test9.png)
+![test10](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test10.png)
+![test11](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test11.png)
+![test12](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test12.png)
