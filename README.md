@@ -36,9 +36,9 @@ This is the list of convolutional layers tested:
 - Dilated Convolution, 3 layers, 3x3 kernel, dilation rates 1x1-2x2-3x3
 - Classic Conv2D, 3 layers, 3x3 kernel, 2 layers for MaxPooling 2x2
 - Classic Conv2D, 3 layers, 3x3 kernel, 2 layers for AveragePooling 2x2
+- Classic Conv2D, 3 layers, 3x3 kernel, 1 layer for MaxPooling 2x2, 1 layer for AveragePooling 2x2
 - Dilated Convolution, 3 layers, 3x3 kernel, dilation rates 1x1-2x2-3x3, 2 layers for MaxPooling 2x2
 - Dilated Convolution, 3 layers, 3x3 kernel, dilation rates 1x1-2x2-3x3, 2 layers for AveragePooling 2x2
-- Classic Conv2D, 3 layers, 3x3 kernel, 1 layer for MaxPooling 2x2, 1 layer for AveragePooling 2x2
 - Dilated Convolution, 3 layers, 3x3 kernel, dilation rates 1x1-2x2-3x3, 1 layer for MaxPooling 2x2, 1 layer for AveragePooling 2x2
 
 ![test1](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/59de42e7b6f02538f0bdff1640ff55c621acc83b/pictures/test1.png)
