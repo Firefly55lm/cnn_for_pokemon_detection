@@ -6,7 +6,7 @@ The model is available on [this HuggingFace repo](https://huggingface.co/Firefly
 Here is a [Colab Notebook](https://colab.research.google.com/drive/1DX4Yw6NkOcHwxUItwf4LrYGUAl53U97C?usp=sharing) to test it.
 
 ## DATASET
-The [training dataset](https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files) contains 17000 pictures divided in 143 of 1st gen Pokémons.
+The [training dataset](https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files) contains 17000 pictures divided in 143 classes of 1st gen Pokémons.
 
 ## ARCHITECTURE
 ![architecture](https://github.com/Firefly55lm/cnn_for_pokemon_detection/blob/80dbb7d00a71df9616506fff25a9a9e72badb713/pictures/architecture.png)
