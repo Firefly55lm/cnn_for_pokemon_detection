@@ -2,7 +2,7 @@
 Convolutional neural network experiment for 1st gen Pokémons detection, made with TensorFlow.
 
 ## TRY IT OUT!
-The model is available on [this HuggingFace repo](https://huggingface.co/Firefly55lm/vera_cnn_v1).
+The model is available on [this HuggingFace repository](https://huggingface.co/Firefly55lm/vera_cnn_v1).
 Here is a [Colab Notebook](https://colab.research.google.com/drive/1DX4Yw6NkOcHwxUItwf4LrYGUAl53U97C?usp=sharing) to test it.
 
 ## DATASET
