@@ -28,7 +28,8 @@ Here is a plot of the feature maps extracted from every convolutional layers pac
 
 ### TESTED SOLUTIONS
 If you are curious about the visual differences between the feature maps of different kinds of layers, I made a few plots comparing them with the same 6 filters (initializer = GlorotUniform(seed=5)).
-This is the list of convolutional layers tested:
+
+This is the list of tested solutions:
 - Classic Conv2D, 1 layer, 3x3 kernel
 - Separable Depthwise Convolution, 1 layer, 3x3 kernel
 - Classic Conv2D, 1 layer, 5x5 kernel
