@@ -2,7 +2,8 @@
 Convolutional neural network experiment for 1st gen Pokémons detection, made with TensorFlow.
 
 ## TRY IT OUT!
-Here is a [Colab Notebook](https://colab.research.google.com/drive/1DX4Yw6NkOcHwxUItwf4LrYGUAl53U97C?usp=sharing) to test the model
+The model is available on [this HuggingFace repo](https://huggingface.co/Firefly55lm/vera_cnn_v1).
+Here is a [Colab Notebook](https://colab.research.google.com/drive/1DX4Yw6NkOcHwxUItwf4LrYGUAl53U97C?usp=sharing) to test it.
 
 ## DATASET
 The [training dataset](https://www.kaggle.com/datasets/mikoajkolman/pokemon-images-first-generation17000-files) containt 17000 pictures divided in 143 of 1st gen Pokémons.
